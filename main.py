@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print('test,git!')
     print('test,git!2')
     print('test,git!3')
+    print('test,git!4')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
